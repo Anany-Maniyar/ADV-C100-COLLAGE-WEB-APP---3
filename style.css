@@ -1,0 +1,23 @@
+.pic1{
+    width: 600px;
+    margin-right: 700px;
+    border: 20px;
+    border-style:ridge;
+}
+.pic2{
+    width: 600px;
+    margin-left: 700px;
+    margin-top: -425px;
+    border: 20px;
+    border-style:ridge;
+}
+.pic3{
+    margin-top: 30px;
+    width: 600px;
+    border: 20px;
+    border-style:ridge;
+}
+
+img:hover{
+    border-radius: 100px;
+}
